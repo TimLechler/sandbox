@@ -1,1 +1,2 @@
 Die Neuigkeiten über das Git Repo hier.
+Das geht auch anders herum.
